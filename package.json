@@ -13,7 +13,7 @@
     "async": "^1.5.2",
     "commander": "2.9.0",
     "needle": "1.1.2",
-    "wmic": "^0.1.0"
+    "wmic": "0.3.0"
   },
   "author": {
     "name": "Tomas Pollak",
